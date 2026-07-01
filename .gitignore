@@ -1,0 +1,15 @@
+﻿# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.vscode/
+
+# Java
+*.class
+target/
+out/
+bin/
